@@ -1,7 +1,7 @@
 # TestVagrant
 
 <h4>Introductions</h4>
-This repository contains the automation code to search any movie on the "Google" and collect the IMDB and Wikipedia link. We can get a desired data from bot the resource and compare them. As for now, I am only taking the release data and country data fromm both the source and assert scenario based on the task requirement.
+This repository contains the automation code to search any movie on the "Google" and collect the IMDB and Wikipedia link. We can get a desired data from the resource and compare them. As for now, I am only taking the release data and country data fromm both the source and assert scenario based on the task requirement.
 
 <h4>Prerequisites to run the program in your Eclipse IDE - <br></h4>
 <li>Maven <br>
